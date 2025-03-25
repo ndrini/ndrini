@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrea aless@ndrini
 - 👀 I’m interested in data science and web services 
-- 🌱 I’m currently learning keycloak
-- 💞️ I’m looking to collaborate on REST API
+- 🌱 I’m currently working as full stack data scientist
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me https://aing.ndrini.eu
 
 <!---
